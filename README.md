@@ -1,3 +1,9 @@
 # hello-world
 Just another repository
-about to start a web developing class. help?
+
+Hello peeps
+
+
+I'm about to start a web developing class.
+Should be fun, except I am a little lost.
+
